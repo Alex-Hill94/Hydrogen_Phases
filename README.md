@@ -17,7 +17,7 @@ MassTensor requires:
 
 To use this package, please clone this github repository as:
 
-`git clone https://github.com/Alex-Hill94/HydrogenPhases.git`
+`git clone https://github.com/Alex-Hill94/Hydrogen_Phases.git`
 
 and add the folder to your python path. 
 
