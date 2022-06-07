@@ -27,6 +27,10 @@ This package computes the relative fraction of the various phases of Hydrogen pr
 
 The computation is undertaken by the class Compute_H_Fractions within **Compute_Fractions.py**. An example can be found within **computation.py**, as well as some plotting code to illustrate the performance of the algorithm.
 
+The code requires knowledge of the redshift, hydrogen abundance of the particle, particle temperature, particle density, and particle star formation rate. Units may be found in the script.
+
+Example data may be found [here](https://drive.google.com/file/d/1FqKmgt7HcPJQ-xrThG6wezKak97ftu8_/view?usp=sharing), and is taken from Galaxy 01 of the ARTEMIS simulation suite.
+
 ## Acknowledgements 
 
 If this code is used in any published work, please acknowledge and cite the original papers, as well as this repository:
