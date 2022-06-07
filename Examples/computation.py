@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 from pylab import *
 from Hydrogen_Phases import Compute_H_Fractions
 
-path = 'test_data.hdf5'
+path = 'test_data.hdf5' # Download at https://drive.google.com/file/d/1FqKmgt7HcPJQ-xrThG6wezKak97ftu8_/view?usp=sharing
 u = h5.File(path, 'r')
 
 PIDs = u['PIDs'][()]
