@@ -1,5 +1,11 @@
 import numpy as np
+import h5py as h5
 from decimal import *
+from numpy import matrix
+import matplotlib
+matplotlib.use('Agg')
+import matplotlib.pyplot as plt
+from pylab import *
 
 getcontext().prec = 40
 
