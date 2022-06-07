@@ -3,7 +3,7 @@ A python package to compute the fractions of the various phases of Hydrogen in h
 
 ## Requirements
 
-MassTensor requires:
+Hydrogen_Phases requires:
 
 * Python version 3.7 or later
 * Numpy version 1.21.5 or later
